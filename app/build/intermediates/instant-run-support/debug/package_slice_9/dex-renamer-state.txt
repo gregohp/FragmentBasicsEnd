@@ -1,0 +1,4 @@
+#Wed Jun 07 18:46:24 CEST 2017
+base.0=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex

@@ -1,0 +1,7 @@
+#Wed Jun 07 18:58:24 CEST 2017
+base.0=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05dccc6d63ec03dd4e0222a34b751ff28db0b0ba
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d150de2291fb5838fbaa130c474f0cf2fde2de3/classes.dex
+base.1=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d150de2291fb5838fbaa130c474f0cf2fde2de3
+file.0=/home/innova4b/AndroidStudioProjects/FragmentBasics/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_05dccc6d63ec03dd4e0222a34b751ff28db0b0ba/classes.dex
